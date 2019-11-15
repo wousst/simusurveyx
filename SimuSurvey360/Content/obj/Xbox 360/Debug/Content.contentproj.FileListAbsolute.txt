@@ -1,3 +1,0 @@
-D:\Program Files\skc\SimuSurvey\SimuSurvey360\SimuSurvey360\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
-C:\Users\skc\Desktop\SimuSurvey360\SimuSurvey360\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
-C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
