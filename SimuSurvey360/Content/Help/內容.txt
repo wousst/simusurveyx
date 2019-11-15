@@ -1,0 +1,99 @@
+角度歸零的操作, 望遠鏡模式下
+多顯示一根紅針, 一開始對正北 ( R_Angle = 0 )
+
+一開始
+Relative : 
+0 0' 0" ( 目前角度和參考角度的差 )
+
+按下 A, 水平角度歸零, 把紅線移到該處 ( R_Angle = nn )
+
+
+
+
+
+
+可參考 wiki 有關 Xbox Controller 的說明
+
+
+可用按鍵
+
+Controller face
+A (green)
+B (red)
+X (blue, not to be confused with XBOX guide button)
+Y (amber)
+D-PAD (UP, DOWN, LEFT, RIGHT)
+BACK
+XBOX GUIDE (ring of green lights around logo button is broken into four quadrants. This button turns power on and light position indicates 1st-4th connected controller).
+START
+LEFT STICK (thumbstick button can also be pressed)
+RIGHT STICK (thumbstick button can also be pressed)
+
+Shoulders
+LEFT BUMPER often abbreviated 'LB'
+RIGHT BUMPER often abbreviated 'RB'
+
+LEFT TRIGGER often abbreviated 'LT'
+RIGHT TRIGGER often abbreviated 'RT'
+
+Other
+CONNECT (Wireless Controller Only)
+
+
+
+
+Navigation Mode :
+
+
+一般行走 :
+Left Stick : Move/ Turn 
+D-pad : Tilt Up/ Down
+Y : Display  ( 還沒做 )
+B : Back ( 之後若有做 Confirm, 可以改成 Pause )
+
+
+
+靠近儀器或標尺 :
+Left Stick : Move/ Turn  
+Right Stick : Stretch
+D-pad : Tilt Up/ Down
+X : Pick
+Y : Display ( 還沒做 )
+B : Back ( 之後若有做 Confirm, 可以改成 Pause )
+
+撿起狀態
+Left Stick : Move/ Turn  
+Right Stick : Stretch
+D-pad : Tilt Up/ Down
+X : Drop 
+Y : Display ( 還沒做 )
+B : Back ( 之後若有做 Confirm, 可以改成 Pause )
+
+
+
+望遠鏡模式下的說明
+Left Stick : Turn Left/ Right
+Right Stick : Zoom In/ Out
+D-pad : Tilt Up/ Down 
+Y : Record ( 還沒做 )
+A : 水平角度歸零
+B : Back 
+
+
+下面選單加文字
+
+Navigation
+Survey
+Result/ Answer
+Options
+Exit
+
+
+
+
+
+  
+
+
+
+

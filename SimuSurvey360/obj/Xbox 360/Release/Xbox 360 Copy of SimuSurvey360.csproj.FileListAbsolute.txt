@@ -1,0 +1,2 @@
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt

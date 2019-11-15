@@ -1,0 +1,2651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2008-10-22T14:21:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\blank.xnb</Output>
+      <Time>2008-10-22T14:21:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\gradient.xnb</Output>
+      <Time>2008-10-22T14:21:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>line.png</Source>
+      <Name>line</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\line.xnb</Output>
+      <Time>2008-10-22T14:21:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bitmap1.bmp</Source>
+      <Name>Bitmap1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Bitmap1.xnb</Output>
+      <Time>2009-09-07T18:16:41.3199593+08:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain00.bmp</Source>
+      <Name>terrain00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain00.xnb</Output>
+      <Time>2009-10-08T15:56:22.6716054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_1.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\1280_keyboard_1.xnb</Output>
+      <Time>2009-09-30T17:35:49.443+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_2.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\1280_keyboard_2.xnb</Output>
+      <Time>2009-09-30T17:35:12.336+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_keyboard_3.png</Source>
+      <Name>onscreenkeyboard\1280\1280_keyboard_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\1280_keyboard_3.xnb</Output>
+      <Time>2009-09-30T17:34:48.337+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Courier30pt.png</Source>
+      <Name>onscreenkeyboard\Courier30pt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\Courier30pt.xnb</Output>
+      <Time>2006-12-26T12:55:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player1.png</Source>
+      <Name>onscreenkeyboard\player1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\player1.xnb</Output>
+      <Time>2006-12-28T11:13:06+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player2.png</Source>
+      <Name>onscreenkeyboard\player2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\player2.xnb</Output>
+      <Time>2006-12-28T11:13:22+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player3.png</Source>
+      <Name>onscreenkeyboard\player3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\player3.xnb</Output>
+      <Time>2006-12-28T11:13:34+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\player4.png</Source>
+      <Name>onscreenkeyboard\player4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\player4.xnb</Output>
+      <Time>2006-12-28T11:13:46+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Selector_Long.png</Source>
+      <Name>onscreenkeyboard\Selector_Long</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\Selector_Long.xnb</Output>
+      <Time>2006-12-16T18:18:30+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\Selector_Small.png</Source>
+      <Name>onscreenkeyboard\Selector_Small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\Selector_Small.xnb</Output>
+      <Time>2006-12-16T18:16:54+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Title.png</Source>
+      <Name>Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Title.xnb</Output>
+      <Time>2009-11-23T01:16:54.7120237+08:00</Time>
+    </Item>
+    <Item>
+      <Source>crossline.png</Source>
+      <Name>crossline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\crossline.xnb</Output>
+      <Time>2010-10-04T19:38:55.9749184+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\blanktext.png</Source>
+      <Name>onscreenkeyboard\1280\blanktext</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\blanktext.xnb</Output>
+      <Time>2009-10-06T22:46:43.4721665+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_digitpad_3L.png</Source>
+      <Name>onscreenkeyboard\1280\1280_digitpad_3L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\1280_digitpad_3L.xnb</Output>
+      <Time>2009-10-08T17:44:10.8626054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\1280_digitpad_3R.png</Source>
+      <Name>onscreenkeyboard\1280\1280_digitpad_3R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\1280_digitpad_3R.xnb</Output>
+      <Time>2009-10-08T17:43:46.7966054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>onscreenkeyboard\1280\blanktext_bk.png</Source>
+      <Name>onscreenkeyboard\1280\blanktext_bk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\onscreenkeyboard\1280\blanktext_bk.xnb</Output>
+      <Time>2009-10-07T11:20:04.2087666+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main1.png</Source>
+      <Name>main1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main1.xnb</Output>
+      <Time>2009-11-23T19:09:51.9060188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main2.png</Source>
+      <Name>main2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main2.xnb</Output>
+      <Time>2009-11-23T19:09:51.9216188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main3.png</Source>
+      <Name>main3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main3.xnb</Output>
+      <Time>2009-11-23T19:09:51.9372188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main4.png</Source>
+      <Name>main4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main4.xnb</Output>
+      <Time>2009-11-23T19:09:51.9528188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main5.png</Source>
+      <Name>main5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main5.xnb</Output>
+      <Time>2009-11-23T19:09:51.9528188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>menu01_bk.jpg</Source>
+      <Name>menu01_bk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\menu01_bk.xnb</Output>
+      <Time>2009-11-23T19:09:51.9684188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>floor01.jpg</Source>
+      <Name>floor01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\floor01.xnb</Output>
+      <Time>2009-11-21T22:14:30.1757894+08:00</Time>
+    </Item>
+    <Item>
+      <Source>floor02.jpg</Source>
+      <Name>floor02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\floor02.xnb</Output>
+      <Time>2009-11-23T01:10:50.5686237+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pointer.png</Source>
+      <Name>pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\pointer.xnb</Output>
+      <Time>2009-12-10T19:00:32.79+08:00</Time>
+    </Item>
+    <Item>
+      <Source>floor03.jpg</Source>
+      <Name>floor03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\floor03.xnb</Output>
+      <Time>2009-10-05T23:19:17.0777511+08:00</Time>
+    </Item>
+    <Item>
+      <Source>crosslineRev.png</Source>
+      <Name>crosslineRev</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\crosslineRev.xnb</Output>
+      <Time>2010-04-01T15:44:37.2946533+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Record.png</Source>
+      <Name>Record</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Record.xnb</Output>
+      <Time>2010-05-10T13:58:50.8702854+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SettingError.png</Source>
+      <Name>SettingError</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SettingError.xnb</Output>
+      <Time>2010-02-23T22:34:16.1091322+08:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain01.bmp</Source>
+      <Name>terrain01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain01.xnb</Output>
+      <Time>2010-05-16T21:14:58.2806794+08:00</Time>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture01_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>terrain02.bmp</Source>
+      <Name>terrain02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain02.xnb</Output>
+      <Time>2010-03-12T00:57:28.6022895+08:00</Time>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture02_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>texture01.bmp</Source>
+      <Name>texture01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture01.xnb</Output>
+      <Time>2010-03-12T01:28:12.4770296+08:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain03.bmp</Source>
+      <Name>terrain03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain03.xnb</Output>
+      <Time>2010-03-12T00:57:28.6022895+08:00</Time>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture03_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>texture04.bmp</Source>
+      <Name>texture04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture04.xnb</Output>
+      <Time>2010-03-28T21:55:22.2894064+08:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain04.bmp</Source>
+      <Name>terrain04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain04.xnb</Output>
+      <Time>2010-03-28T23:34:32.7249928+08:00</Time>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture04_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>terrain05.bmp</Source>
+      <Name>terrain05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\terrain05.xnb</Output>
+      <Time>2010-05-16T20:37:55.4145387+08:00</Time>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture05_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>texture02.bmp</Source>
+      <Name>texture02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture02.xnb</Output>
+      <Time>2010-04-12T22:22:47.6437044+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture03.bmp</Source>
+      <Name>texture03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture03.xnb</Output>
+      <Time>2010-03-12T09:34:31.6274705+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture05.bmp</Source>
+      <Name>texture05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture05.xnb</Output>
+      <Time>2010-03-28T21:56:04.3782803+08:00</Time>
+    </Item>
+    <Item>
+      <Source>blackDotLarge.png</Source>
+      <Name>blackDotLarge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\blackDotLarge.xnb</Output>
+      <Time>2010-04-12T21:48:14.4715049+08:00</Time>
+    </Item>
+    <Item>
+      <Source>yellowDotSmall.png</Source>
+      <Name>yellowDotSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\yellowDotSmall.xnb</Output>
+      <Time>2010-03-30T23:17:49.8381284+08:00</Time>
+    </Item>
+    <Item>
+      <Source>redDotSmall.png</Source>
+      <Name>redDotSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\redDotSmall.xnb</Output>
+      <Time>2008-05-23T22:14:54+08:00</Time>
+    </Item>
+    <Item>
+      <Source>blueDotSmall.png</Source>
+      <Name>blueDotSmall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\blueDotSmall.xnb</Output>
+      <Time>2010-03-30T23:21:21.6188697+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pointerN.png</Source>
+      <Name>pointerN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\pointerN.xnb</Output>
+      <Time>2010-03-31T16:04:09.6839043+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dash_L.png</Source>
+      <Name>Dash_L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dash_L.xnb</Output>
+      <Time>2010-10-04T19:40:39.5591003+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dash_R.png</Source>
+      <Name>Dash_R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dash_R.xnb</Output>
+      <Time>2010-04-09T00:07:39.9474579+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dir_1.png</Source>
+      <Name>Dir_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dir_1.xnb</Output>
+      <Time>2010-04-12T21:28:00.2309664+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dir_2.png</Source>
+      <Name>Dir_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dir_2.xnb</Output>
+      <Time>2010-04-12T21:29:06.1878823+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dir_3.png</Source>
+      <Name>Dir_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dir_3.xnb</Output>
+      <Time>2010-04-12T21:30:03.003182+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Dir_4.png</Source>
+      <Name>Dir_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Dir_4.xnb</Output>
+      <Time>2010-04-12T21:42:43.9737244+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pointerRed.png</Source>
+      <Name>pointerRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\pointerRed.xnb</Output>
+      <Time>2010-04-06T13:42:15.2561571+08:00</Time>
+    </Item>
+    <Item>
+      <Source>H0001.png</Source>
+      <Name>H0001</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\H0001.xnb</Output>
+      <Time>2010-04-06T18:44:10.8842605+08:00</Time>
+    </Item>
+    <Item>
+      <Source>GradientPanel.png</Source>
+      <Name>GradientPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\GradientPanel.xnb</Output>
+      <Time>2010-05-12T10:31:32.3442394+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\explosion.png</Source>
+      <Name>Particle3D\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\explosion.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\fire.png</Source>
+      <Name>Particle3D\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\fire.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\smoke.png</Source>
+      <Name>Particle3D\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\smoke.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Up.png</Source>
+      <Name>Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Up.xnb</Output>
+      <Time>2010-05-16T21:24:16.5616112+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Down.png</Source>
+      <Name>Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Down.xnb</Output>
+      <Time>2010-05-16T21:27:25.9524437+08:00</Time>
+    </Item>
+    <Item>
+      <Source>crossline_s.png</Source>
+      <Name>crossline_s</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\crossline_s.xnb</Output>
+      <Time>2010-10-04T19:38:31.0460746+08:00</Time>
+    </Item>
+    <Item>
+      <Source>glow.png</Source>
+      <Name>glow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\glow.xnb</Output>
+      <Time>2010-08-27T13:30:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>flare1.png</Source>
+      <Name>flare1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\flare1.xnb</Output>
+      <Time>2010-08-27T13:30:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>flare2.png</Source>
+      <Name>flare2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\flare2.xnb</Output>
+      <Time>2010-08-27T13:30:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>flare3.png</Source>
+      <Name>flare3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\flare3.xnb</Output>
+      <Time>2010-08-27T13:30:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\gamefont.xnb</Output>
+      <Time>2008-10-22T14:21:42+08:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\menufont.xnb</Output>
+      <Time>2010-05-11T18:55:28.3330589+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial.spritefont</Source>
+      <Name>Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Arial.xnb</Output>
+      <Time>2009-12-23T01:19:52.9243762+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Jokeman.spritefont</Source>
+      <Name>Jokeman</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Jokeman.xnb</Output>
+      <Time>2010-02-10T13:02:08.5458984+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Arial24.spritefont</Source>
+      <Name>Arial24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Arial24.xnb</Output>
+      <Time>2010-02-19T20:27:12.9665473+08:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont28.spritefont</Source>
+      <Name>menufont28</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\menufont28.xnb</Output>
+      <Time>2010-04-12T22:42:06.892979+08:00</Time>
+    </Item>
+    <Item>
+      <Source>LCD18.spritefont</Source>
+      <Name>LCD18</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\LCD18.xnb</Output>
+      <Time>2010-05-10T11:25:53.1253484+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\font.spritefont</Source>
+      <Name>Particle3D\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\font.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leica.FBX</Source>
+      <Name>Leica</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica.xnb</Output>
+      <Time>2010-02-23T12:58:59.7609191+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Leica_0.xml</Key>
+        <Value>2011-11-30T16:43:24.1502773+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica_TCR805_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Ruler_5m_4.FBX</Source>
+      <Name>Ruler_5m_4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Ruler_5m_4.xnb</Output>
+      <Time>2010-07-16T15:51:03.0135401+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Ruler_5m_4_0.xml</Key>
+        <Value>2011-11-30T16:43:26.2353966+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Ruler_Level_Numbers_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ball.FBX</Source>
+      <Name>ball</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ball.xnb</Output>
+      <Time>2008-11-07T05:40:36+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\ball_0.xml</Key>
+        <Value>2011-11-30T16:43:28.9415513+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Sky.FBX</Source>
+      <Name>Sky</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Sky.xnb</Output>
+      <Time>2010-03-28T22:57:21.9223242+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Sky_0.xml</Key>
+        <Value>2011-11-30T16:43:30.2436258+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Tree01.FBX</Source>
+      <Name>Tree01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Tree01.xnb</Output>
+      <Time>2009-10-08T12:56:55.4909653+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Tree01_0.xml</Key>
+        <Value>2011-11-30T16:44:55.4344985+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>P01.FBX</Source>
+      <Name>P01</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P01.xnb</Output>
+      <Time>2009-11-23T19:10:08.0988188+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\P01_0.xml</Key>
+        <Value>2011-11-30T16:45:02.8499226+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>P02.FBX</Source>
+      <Name>P02</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P02.xnb</Output>
+      <Time>2009-11-23T19:10:08.1144188+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\P02_0.xml</Key>
+        <Value>2011-11-30T16:45:04.3110062+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>P03.FBX</Source>
+      <Name>P03</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P03.xnb</Output>
+      <Time>2009-11-23T19:10:08.1612188+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\P03_0.xml</Key>
+        <Value>2011-11-30T16:45:05.7150865+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>P04.FBX</Source>
+      <Name>P04</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P04.xnb</Output>
+      <Time>2009-11-23T19:10:08.1768188+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\P04_0.xml</Key>
+        <Value>2011-11-30T16:45:07.1721698+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>P05.FBX</Source>
+      <Name>P05</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P05.xnb</Output>
+      <Time>2009-11-23T19:10:08.1924188+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\P05_0.xml</Key>
+        <Value>2011-11-30T16:45:08.5942512+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main5_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ntuboy8\ntuboy8.FBX</Source>
+      <Name>ntuboy8\ntuboy8</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\ntuboy8.xnb</Output>
+      <Time>2010-04-07T15:24:41.9922772+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\ntuboy8\ntuboy8_0.xml</Key>
+        <Value>2011-11-30T16:45:32.5656222+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\__3_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Transluc_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Metal_Se_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Stone_Gr_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Brick_Ro_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Metal_Co_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>pole.FBX</Source>
+      <Name>pole</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\pole.xnb</Output>
+      <Time>2010-02-07T22:32:39.8056+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\pole_0.xml</Key>
+        <Value>2011-11-30T16:45:39.1339979+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Stick_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>SetPoint.FBX</Source>
+      <Name>SetPoint</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SetPoint.xnb</Output>
+      <Time>2010-02-14T22:20:25.0283495+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\SetPoint_0.xml</Key>
+        <Value>2011-11-30T16:45:41.0271062+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SetPoint_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Box_1.FBX</Source>
+      <Name>Box_1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Box_1.xnb</Output>
+      <Time>2010-02-12T21:09:41.3114+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Box_1_0.xml</Key>
+        <Value>2011-11-30T16:45:42.8122083+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\A_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Box_2.FBX</Source>
+      <Name>Box_2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Box_2.xnb</Output>
+      <Time>2010-02-12T21:10:12.4022+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Box_2_0.xml</Key>
+        <Value>2011-11-30T16:45:44.6283122+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\B_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Box_3.FBX</Source>
+      <Name>Box_3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Box_3.xnb</Output>
+      <Time>2010-02-12T21:19:25.87+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Box_3_0.xml</Key>
+        <Value>2011-11-30T16:45:46.1924016+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\C_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Box_4.FBX</Source>
+      <Name>Box_4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Box_4.xnb</Output>
+      <Time>2010-02-12T21:19:54.1684+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Box_4_0.xml</Key>
+        <Value>2011-11-30T16:45:47.9775037+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\D_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Box_0.FBX</Source>
+      <Name>Box_0</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Box_0.xnb</Output>
+      <Time>2010-02-20T23:14:24.0042+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Box_0_0.xml</Key>
+        <Value>2011-11-30T16:45:49.5775953+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Tripod_Large.FBX</Source>
+      <Name>Tripod_Large</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Tripod_Large.xnb</Output>
+      <Time>2010-02-23T13:01:48.7999191+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Tripod_Large_0.xml</Key>
+        <Value>2011-11-30T16:45:51.4847043+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Foot_Big_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Leica_Level.FBX</Source>
+      <Name>Leica_Level</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica_Level.xnb</Output>
+      <Time>2010-03-09T14:58:05.164926+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Leica_Level_0.xml</Key>
+        <Value>2011-11-30T16:47:10.1742051+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica_Level_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Nikon_Level.FBX</Source>
+      <Name>Nikon_Level</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_Level.xnb</Output>
+      <Time>2010-03-09T17:00:55.649926+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Nikon_Level_0.xml</Key>
+        <Value>2011-11-30T16:47:12.1163162+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_Level_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Tripod_Small.FBX</Source>
+      <Name>Tripod_Small</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Tripod_Small.xnb</Output>
+      <Time>2010-03-09T18:03:15.840926+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Tripod_Small_0.xml</Key>
+        <Value>2011-11-30T16:47:13.9404205+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Foot_Small_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Nikon_Theo.FBX</Source>
+      <Name>Nikon_Theo</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_Theo.xnb</Output>
+      <Time>2010-03-09T18:53:50.374926+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Nikon_Theo_0.xml</Key>
+        <Value>2011-11-30T16:47:15.7535242+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_NE101_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Mirror.FBX</Source>
+      <Name>Mirror</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Mirror.xnb</Output>
+      <Time>2010-03-09T19:33:20.436526+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Mirror_0.xml</Key>
+        <Value>2011-11-30T16:47:17.60163+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Mirror_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky1.FBX</Source>
+      <Name>sky1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky1.xnb</Output>
+      <Time>2010-03-28T23:53:08.623246+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\sky1_0.xml</Key>
+        <Value>2011-11-30T16:47:19.1737199+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky2.FBX</Source>
+      <Name>sky2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky2.xnb</Output>
+      <Time>2010-03-28T22:57:21.9223242+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\sky2_0.xml</Key>
+        <Value>2011-11-30T16:47:21.9138766+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky3.FBX</Source>
+      <Name>sky3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky3.xnb</Output>
+      <Time>2010-03-28T23:53:55.4233282+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\sky3_0.xml</Key>
+        <Value>2011-11-30T16:47:23.0639424+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky3_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky4.FBX</Source>
+      <Name>sky4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky4.xnb</Output>
+      <Time>2010-03-28T23:54:24.2989789+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\sky4_0.xml</Key>
+        <Value>2011-11-30T16:47:26.1221173+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky4_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>sky5.FBX</Source>
+      <Name>sky5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky5.xnb</Output>
+      <Time>2010-03-28T23:54:53.6582305+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\sky5_0.xml</Key>
+        <Value>2011-11-30T16:47:28.9802808+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky5_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>RulerPad.FBX</Source>
+      <Name>RulerPad</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\RulerPad.xnb</Output>
+      <Time>2010-04-12T23:12:04.4461676+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\RulerPad_0.xml</Key>
+        <Value>2011-11-30T16:47:31.9254492+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\housestory.FBX</Source>
+      <Name>Model_Other\housestory\housestory</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\housestory.xnb</Output>
+      <Time>2010-05-05T13:50:24.5172718+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Model_Other\housestory\housestory_0.xml</Key>
+        <Value>2011-11-30T16:47:45.1652065+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016TLT_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016RKB_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016WDT_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016FLT_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\LAKEREM_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016WLT_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model_Other\house\house.FBX</Source>
+      <Name>Model_Other\house\house</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\house\house.xnb</Output>
+      <Time>2010-05-05T09:59:28.8350965+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Model_Other\house\house_0.xml</Key>
+        <Value>2011-11-30T16:47:51.9385939+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\sauna.FBX</Source>
+      <Name>Model_Other\sauna\sauna</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\sauna.xnb</Output>
+      <Time>2010-05-09T10:55:30.1122862+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Model_Other\sauna\sauna_0.xml</Key>
+        <Value>2011-11-30T16:47:54.0887169+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_LAUDE_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_PAN_3_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_PA_DR_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\HIRSI_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model_Other\stone\stone.FBX</Source>
+      <Name>Model_Other\stone\stone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\stone\stone.xnb</Output>
+      <Time>2010-05-05T12:53:12.2869595+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Model_Other\stone\stone_0.xml</Key>
+        <Value>2011-11-30T16:48:24.1944388+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\stone\tn_tty_1649_rock_0.xnb</Request>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\stone\stone_texture_for_tutorial_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Model_Other\tree10\tree10.FBX</Source>
+      <Name>Model_Other\tree10\tree10</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\tree10\tree10.xnb</Output>
+      <Time>2010-05-09T11:03:08.9355294+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Model_Other\tree10\tree10_0.xml</Key>
+        <Value>2011-11-30T16:48:39.0662895+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\SpriteSheet.xml</Source>
+      <Name>SpriteSheet\SpriteSheet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>SpriteSheetProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SpriteSheet\SpriteSheet.xnb</Output>
+      <Time>2009-10-03T00:47:39.2329728+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\cat_0.xml</Key>
+        <Value>2011-11-30T16:48:39.7873307+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow1_0.xml</Key>
+        <Value>2011-11-30T16:48:40.1283502+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow2_0.xml</Key>
+        <Value>2011-11-30T16:48:40.3243614+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow3_0.xml</Key>
+        <Value>2011-11-30T16:48:40.5163724+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow4_0.xml</Key>
+        <Value>2011-11-30T16:48:40.7093834+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow5_0.xml</Key>
+        <Value>2011-11-30T16:48:41.1364079+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow6_0.xml</Key>
+        <Value>2011-11-30T16:48:41.5684326+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\SpriteSheet\glow7_0.xml</Key>
+        <Value>2011-11-30T16:48:41.7874451+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Navigation\navigation.xml</Source>
+      <Name>Navigation\navigation</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>SpriteSheetProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Navigation\navigation.xnb</Output>
+      <Time>2009-10-03T22:47:17.4138769+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_B01_0.xml</Key>
+        <Value>2011-11-30T16:48:42.7775017+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_H01_0.xml</Key>
+        <Value>2011-11-30T16:48:43.0215157+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_B02_0.xml</Key>
+        <Value>2011-11-30T16:48:43.219527+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_H02_0.xml</Key>
+        <Value>2011-11-30T16:48:44.0025718+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_B03_0.xml</Key>
+        <Value>2011-11-30T16:48:44.2185842+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_H03_0.xml</Key>
+        <Value>2011-11-30T16:48:44.4445971+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_B04_0.xml</Key>
+        <Value>2011-11-30T16:48:45.0656326+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_H04_0.xml</Key>
+        <Value>2011-11-30T16:48:45.4836565+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_B05_0.xml</Key>
+        <Value>2011-11-30T16:48:45.6986688+08:00</Value>
+      </Dependency>
+      <Dependency>
+        <Key>obj\x86\Release\Navigation\NA_H05_0.xml</Key>
+        <Value>2011-11-30T16:48:46.1706958+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Particle3D\ExplosionSettings.xml</Source>
+      <Name>Particle3D\ExplosionSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\ExplosionSettings.xnb</Output>
+      <Time>2010-05-10T15:13:06.0371064+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\ExplosionSmokeSettings.xml</Source>
+      <Name>Particle3D\ExplosionSmokeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\ExplosionSmokeSettings.xnb</Output>
+      <Time>2010-05-10T15:01:27.0981294+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\FireSettings.xml</Source>
+      <Name>Particle3D\FireSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\FireSettings.xnb</Output>
+      <Time>2010-05-10T17:45:53.9464808+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\ProjectileTrailSettings.xml</Source>
+      <Name>Particle3D\ProjectileTrailSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\ProjectileTrailSettings.xnb</Output>
+      <Time>2010-05-10T17:46:08.7563279+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\SmokePlumeSettings.xml</Source>
+      <Name>Particle3D\SmokePlumeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\SmokePlumeSettings.xnb</Output>
+      <Time>2010-05-10T17:46:16.6687804+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSettings.xml</Source>
+      <Name>ExplosionSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ExplosionSettings.xnb</Output>
+      <Time>2010-05-10T15:18:09.5634671+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmokeSettings.xml</Source>
+      <Name>ExplosionSmokeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ExplosionSmokeSettings.xnb</Output>
+      <Time>2010-05-10T15:01:27.0981294+08:00</Time>
+    </Item>
+    <Item>
+      <Source>FireSettings.xml</Source>
+      <Name>FireSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\FireSettings.xnb</Output>
+      <Time>2010-06-07T09:44:22.5266632+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SmokePlumeSettings.xml</Source>
+      <Name>SmokePlumeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SmokePlumeSettings.xnb</Output>
+      <Time>2010-06-07T09:46:08.1337036+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Shader.fx</Source>
+      <Name>Shader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Shader.xnb</Output>
+      <Time>2009-10-04T17:53:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>PostProcess.fx</Source>
+      <Name>PostProcess</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\PostProcess.xnb</Output>
+      <Time>2009-10-04T17:57:28+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\ParticleEffect.fx</Source>
+      <Name>Particle3D\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\ParticleEffect.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\BloomCombine.xnb</Output>
+      <Time>2010-08-27T13:30:34+08:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\BloomExtract.xnb</Output>
+      <Time>2010-08-27T13:30:34+08:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\GaussianBlur.xnb</Output>
+      <Time>2010-08-27T13:30:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>birds003.wav</Source>
+      <Name>birds003</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\birds003.xnb</Output>
+      <Time>2010-03-08T14:27:40.7462075+08:00</Time>
+    </Item>
+    <Item>
+      <Source>birds001.wav</Source>
+      <Name>birds001</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\birds001.xnb</Output>
+      <Time>2009-05-21T16:11:40+08:00</Time>
+    </Item>
+    <Item>
+      <Source>birds002.wav</Source>
+      <Name>birds002</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\birds002.xnb</Output>
+      <Time>2010-03-08T14:26:52.0105316+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI_Misc01.wav</Source>
+      <Name>UI_Misc01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\UI_Misc01.xnb</Output>
+      <Time>2009-05-21T16:11:46+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI_Misc02.wav</Source>
+      <Name>UI_Misc02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\UI_Misc02.xnb</Output>
+      <Time>2009-05-21T16:11:46+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\grid.x</Source>
+      <Name>Particle3D\grid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\grid.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Release\Particle3D\grid_0.xml</Key>
+        <Value>2011-11-30T16:48:48.6858397+08:00</Value>
+      </Dependency>
+      <Request>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>texture01.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture01_0.xnb</Output>
+      <Time>2010-03-12T01:28:12.4770296+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture02.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture02_0.xnb</Output>
+      <Time>2010-04-12T22:22:47.6437044+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture03.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture03_0.xnb</Output>
+      <Time>2010-03-12T09:34:31.6274705+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture04.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture04_0.xnb</Output>
+      <Time>2010-03-28T21:55:22.2894064+08:00</Time>
+    </Item>
+    <Item>
+      <Source>texture05.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\texture05_0.xnb</Output>
+      <Time>2010-03-28T21:56:04.3782803+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leica.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Leica_0.xml</Output>
+      <Time>2010-02-23T12:58:59.7609191+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leica_TCR805.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica_TCR805_0.xnb</Output>
+      <Time>2009-06-03T14:02:38+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ruler_5m_4.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Ruler_5m_4_0.xml</Output>
+      <Time>2010-07-16T15:51:03.0135401+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ruler_Level_Numbers.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Ruler_Level_Numbers_0.xnb</Output>
+      <Time>2009-06-04T12:12:16+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\ball_0.xml</Output>
+      <Time>2008-11-07T05:40:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sky.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Sky_0.xml</Output>
+      <Time>2010-03-28T22:57:21.9223242+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky2_0.xnb</Output>
+      <Time>2010-04-07T14:41:21.8205559+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tree01.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Tree01_0.xml</Output>
+      <Time>2009-10-08T12:56:55.4909653+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P01.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\P01_0.xml</Output>
+      <Time>2009-11-23T19:10:08.0988188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main1_0.xnb</Output>
+      <Time>2009-11-23T19:09:51.9060188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P02.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\P02_0.xml</Output>
+      <Time>2009-11-23T19:10:08.1144188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main2_0.xnb</Output>
+      <Time>2009-11-23T19:09:51.9216188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P03.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\P03_0.xml</Output>
+      <Time>2009-11-23T19:10:08.1612188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main3_0.xnb</Output>
+      <Time>2009-11-23T19:09:51.9372188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P04.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\P04_0.xml</Output>
+      <Time>2009-11-23T19:10:08.1768188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main4_0.xnb</Output>
+      <Time>2009-11-23T19:09:51.9528188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P05.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\P05_0.xml</Output>
+      <Time>2009-11-23T19:10:08.1924188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>main5.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\main5_0.xnb</Output>
+      <Time>2009-11-23T19:09:51.9528188+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\ntuboy8.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\ntuboy8\ntuboy8_0.xml</Output>
+      <Time>2010-04-07T15:24:41.9922772+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\__3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\__3_0.xnb</Output>
+      <Time>2010-02-03T14:39:36.4132255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\Transluc.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Transluc_0.xnb</Output>
+      <Time>2010-02-03T12:25:59.7512255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\Metal_Se.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Metal_Se_0.xnb</Output>
+      <Time>2010-02-03T12:26:00.1252255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\Stone_Gr.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Stone_Gr_0.xnb</Output>
+      <Time>2010-02-03T12:26:01.4102255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\Brick_Ro.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Brick_Ro_0.xnb</Output>
+      <Time>2010-02-03T14:39:45.9942255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ntuboy8\Metal_Co.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\ntuboy8\Metal_Co_0.xnb</Output>
+      <Time>2010-02-03T12:26:09.3702255+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pole.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\pole_0.xml</Output>
+      <Time>2010-02-07T22:32:39.8056+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Stick.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Stick_0.xnb</Output>
+      <Time>2009-06-02T23:25:22+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SetPoint.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\SetPoint_0.xml</Output>
+      <Time>2010-02-14T22:20:25.0283495+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SetPoint.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\SetPoint_0.xnb</Output>
+      <Time>2010-02-12T15:19:02.0958+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box_1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Box_1_0.xml</Output>
+      <Time>2010-02-12T21:09:41.3114+08:00</Time>
+    </Item>
+    <Item>
+      <Source>A.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\A_0.xnb</Output>
+      <Time>2010-02-12T15:21:12.1842+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box_2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Box_2_0.xml</Output>
+      <Time>2010-02-12T21:10:12.4022+08:00</Time>
+    </Item>
+    <Item>
+      <Source>B.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\B_0.xnb</Output>
+      <Time>2010-02-12T15:27:13.2306+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box_3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Box_3_0.xml</Output>
+      <Time>2010-02-12T21:19:25.87+08:00</Time>
+    </Item>
+    <Item>
+      <Source>C.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\C_0.xnb</Output>
+      <Time>2010-02-12T15:27:37.1298+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box_4.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Box_4_0.xml</Output>
+      <Time>2010-02-12T21:19:54.1684+08:00</Time>
+    </Item>
+    <Item>
+      <Source>D.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\D_0.xnb</Output>
+      <Time>2010-02-12T15:27:59.2506+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Box_0.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Box_0_0.xml</Output>
+      <Time>2010-02-20T23:14:24.0042+08:00</Time>
+    </Item>
+    <Item>
+      <Source>P.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\P_0.xnb</Output>
+      <Time>2010-02-20T23:06:10.164+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tripod_Large.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Tripod_Large_0.xml</Output>
+      <Time>2010-02-23T13:01:48.7999191+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Foot_Big.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Foot_Big_0.xnb</Output>
+      <Time>2009-08-06T15:05:12.5073517+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leica_Level.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Leica_Level_0.xml</Output>
+      <Time>2010-03-09T14:58:05.164926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Leica_Level.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Leica_Level_0.xnb</Output>
+      <Time>2009-06-02T23:17:18+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Nikon_Level.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Nikon_Level_0.xml</Output>
+      <Time>2010-03-09T17:00:55.649926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Nikon_Level.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_Level_0.xnb</Output>
+      <Time>2009-06-02T23:20:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tripod_Small.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Tripod_Small_0.xml</Output>
+      <Time>2010-03-09T18:03:15.840926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Foot_Small.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Foot_Small_0.xnb</Output>
+      <Time>2009-06-02T23:23:52+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Nikon_Theo.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Nikon_Theo_0.xml</Output>
+      <Time>2010-03-09T18:53:50.374926+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Nikon_NE101.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Nikon_NE101_0.xnb</Output>
+      <Time>2009-06-08T23:35:00+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Mirror.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Mirror_0.xml</Output>
+      <Time>2010-03-09T19:33:20.436526+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Mirror.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Mirror_0.xnb</Output>
+      <Time>2009-06-02T23:27:44+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky1.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\sky1_0.xml</Output>
+      <Time>2010-03-28T23:53:08.623246+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky1_0.xnb</Output>
+      <Time>2010-03-19T16:31:27.4764606+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky2.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\sky2_0.xml</Output>
+      <Time>2010-03-28T22:57:21.9223242+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky3.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\sky3_0.xml</Output>
+      <Time>2010-03-28T23:53:55.4233282+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky3.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky3_0.xnb</Output>
+      <Time>2010-03-30T12:34:43.3401643+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky4.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\sky4_0.xml</Output>
+      <Time>2010-03-28T23:54:24.2989789+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky4.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky4_0.xnb</Output>
+      <Time>2010-03-30T10:54:29.0402274+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky5.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\sky5_0.xml</Output>
+      <Time>2010-03-28T23:54:53.6582305+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky5.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\sky5_0.xnb</Output>
+      <Time>2010-03-30T10:55:37.5087477+08:00</Time>
+    </Item>
+    <Item>
+      <Source>RulerPad.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\RulerPad_0.xml</Output>
+      <Time>2010-04-12T23:12:04.4461676+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\housestory.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Model_Other\housestory\housestory_0.xml</Output>
+      <Time>2010-05-05T13:50:24.5172718+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\F8016TLT.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016TLT_0.xnb</Output>
+      <Time>2009-07-29T15:58:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\F8016RKB.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016RKB_0.xnb</Output>
+      <Time>2010-05-05T13:53:10.8647864+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\F8016WDT.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016WDT_0.xnb</Output>
+      <Time>2010-05-05T13:53:34.6821486+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\F8016FLT.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016FLT_0.xnb</Output>
+      <Time>2010-05-05T13:52:14.789579+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\LAKEREM.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\LAKEREM_0.xnb</Output>
+      <Time>2010-05-05T13:54:35.3456184+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\housestory\F8016WLT.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\housestory\F8016WLT_0.xnb</Output>
+      <Time>2009-07-29T15:58:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\house\house.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Model_Other\house\house_0.xml</Output>
+      <Time>2010-05-05T09:59:28.8350965+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\sauna.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Model_Other\sauna\sauna_0.xml</Output>
+      <Time>2010-05-09T10:55:30.1122862+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\WD_LAUDE.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_LAUDE_0.xnb</Output>
+      <Time>2010-05-09T10:02:48.5264538+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\WD_PAN_3.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_PAN_3_0.xnb</Output>
+      <Time>2010-05-09T10:47:10.8967327+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\WD_PA_DR.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\WD_PA_DR_0.xnb</Output>
+      <Time>2010-05-09T10:45:52.3882423+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\sauna\HIRSI.JPG</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\sauna\HIRSI_0.xnb</Output>
+      <Time>2010-05-09T10:46:40.2139777+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\stone\stone.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Model_Other\stone\stone_0.xml</Output>
+      <Time>2010-05-05T12:53:12.2869595+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\stone\tn_tty_1649_rock.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\stone\tn_tty_1649_rock_0.xnb</Output>
+      <Time>2008-09-13T15:52:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\stone\stone_texture_for_tutorial.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Model_Other\stone\stone_texture_for_tutorial_0.xnb</Output>
+      <Time>2008-09-13T15:54:08+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Model_Other\tree10\tree10.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Model_Other\tree10\tree10_0.xml</Output>
+      <Time>2010-05-09T11:03:08.9355294+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\cat.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\cat_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow1.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow1_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow2.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow2_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow3.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow3_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow4.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow4_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow5.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow5_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow6.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow6_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteSheet\glow7.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\SpriteSheet\glow7_0.xml</Output>
+      <Time>2009-04-28T10:44:32+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_B01.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_B01_0.xml</Output>
+      <Time>2009-11-22T16:44:13.6912237+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_H01.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_H01_0.xml</Output>
+      <Time>2005-03-10T03:42:54+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_B02.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_B02_0.xml</Output>
+      <Time>2009-11-22T16:44:06.5782237+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_H02.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_H02_0.xml</Output>
+      <Time>2009-11-22T15:46:19.09375+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_B03.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_B03_0.xml</Output>
+      <Time>2010-02-22T14:03:59.491171+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_H03.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_H03_0.xml</Output>
+      <Time>2010-02-22T15:01:08.111171+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_B04.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_B04_0.xml</Output>
+      <Time>2010-02-22T14:36:49.964171+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_H04.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_H04_0.xml</Output>
+      <Time>2010-02-22T15:08:06.319171+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_B05.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_B05_0.xml</Output>
+      <Time>2009-10-08T18:58:09.3376054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Navigation\NA_H05.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Options>IntermediateFile</Options>
+      <Output>obj\x86\Release\Navigation\NA_H05_0.xml</Output>
+      <Time>2009-10-08T18:56:51.4236054+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\grid.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Release\Particle3D\grid_0.xml</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle3D\checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\Particle3D\checker_0.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>D:\SimuSurvey\SimuSurvey360\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.dll</Key>
+        <Value>2010-07-16T11:38:05.0651243+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.dll</Key>
+        <Value>2011-11-30T16:41:39.5652954+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Release\ParticleSettings.dll</Key>
+        <Value>2011-11-30T16:41:40.1813306+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-02-24T16:32:10.6089228+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

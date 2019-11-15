@@ -1,0 +1,15 @@
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.pdb
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.dll
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\Xbox 360\Debug\SpriteSheetPipeline.pdb
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.dll
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\Xbox 360\Debug\SpriteSheetPipeline.pdb

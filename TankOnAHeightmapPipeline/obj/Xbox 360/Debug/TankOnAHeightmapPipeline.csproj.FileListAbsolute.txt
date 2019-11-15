@@ -1,0 +1,10 @@
+C:\Users\skc\Desktop\3D相關\stereoscopic\TankOnAHeightmap\TankOnAHeightmap\TankOnAHeightmapPipeline\bin\Xbox 360\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\skc\Desktop\3D相關\stereoscopic\TankOnAHeightmap\TankOnAHeightmap\TankOnAHeightmapPipeline\bin\Xbox 360\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\skc\Desktop\3D相關\stereoscopic\TankOnAHeightmap\TankOnAHeightmap\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\3D相關\stereoscopic\TankOnAHeightmap\TankOnAHeightmap\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\skc\Desktop\3D相關\stereoscopic\TankOnAHeightmap\TankOnAHeightmap\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey360\TankOnAHeightmapPipeline\bin\Xbox 360\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey360\TankOnAHeightmapPipeline\bin\Xbox 360\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey360\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey360\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey360\TankOnAHeightmapPipeline\obj\Xbox 360\Debug\TanksOnAHeightmapPipeline.pdb

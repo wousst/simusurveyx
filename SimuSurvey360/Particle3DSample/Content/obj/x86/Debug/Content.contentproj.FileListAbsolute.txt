@@ -1,0 +1,3 @@
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\Particle3DSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\Particle3DSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\Content\obj\x86\Debug\ResolveAssemblyReference.cache

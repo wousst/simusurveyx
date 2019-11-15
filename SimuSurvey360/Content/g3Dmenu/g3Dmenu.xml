@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String[]">
+    <Item>ghmenu\menu01_bk.png</Item>
+    <Item>ghmenu\Selector_Small.png</Item>    
+    <Item>ghmenu\BTN_B01.png</Item>
+    <Item>ghmenu\BTN_H01.png</Item>    
+    <Item>ghmenu\BTN_B02.png</Item>
+    <Item>ghmenu\BTN_H02.png</Item>    
+    <Item>ghmenu\BTN_B03.png</Item>
+    <Item>ghmenu\BTN_H03.png</Item>    
+    <Item>ghmenu\BTN_B04.png</Item>
+    <Item>ghmenu\BTN_H04.png</Item>          
+    <Item>ghmenu\BTN_B05.png</Item>
+    <Item>ghmenu\BTN_H05.png</Item>                 
+  </Asset>
+</XnaContent>

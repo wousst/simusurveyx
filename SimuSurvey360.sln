@@ -1,0 +1,204 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSurvey360", "SimuSurvey360\SimuSurvey360.csproj", "{14351B32-9974-4D1C-BD14-3FB2DF5D5374}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B501FB5A-C341-43B3-8AF3-C3202277D943} = {B501FB5A-C341-43B3-8AF3-C3202277D943}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xbox 360 Copy of SimuSurvey360", "SimuSurvey360\Xbox 360 Copy of SimuSurvey360.csproj", "{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetPipeline", "SpriteSheetPipeline\SpriteSheetPipeline.csproj", "{288693A4-E777-4A32-A658-3AB8B48C8511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetRuntimeWindows", "SpriteSheetRuntime\SpriteSheetRuntimeWindows.csproj", "{8920CB58-7E98-4EE9-8726-BE29BB9BD778}"
+	ProjectSection(ProjectDependencies) = postProject
+		{288693A4-E777-4A32-A658-3AB8B48C8511} = {288693A4-E777-4A32-A658-3AB8B48C8511}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetRuntimeXbox", "SpriteSheetRuntime\SpriteSheetRuntimeXbox.csproj", "{24E54586-860B-46EC-B294-86097526071D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{288693A4-E777-4A32-A658-3AB8B48C8511} = {288693A4-E777-4A32-A658-3AB8B48C8511}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankOnAHeightmapPipeline", "TankOnAHeightmapPipeline\TankOnAHeightmapPipeline.csproj", "{287934F7-D1DF-4E3E-A05E-505C500113DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankOnAHeightmapPipelineXbox", "TankOnAHeightmapPipeline\TankOnAHeightmapPipelineXbox.csproj", "{6FC02BC0-9CE9-4191-850F-3008563E1C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSettingsWindows", "SimuSurvey360\ParticleSettings\ParticleSettingsWindows.csproj", "{B501FB5A-C341-43B3-8AF3-C3202277D943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSettingsXbox", "SimuSurvey360\ParticleSettings\ParticleSettingsXbox.csproj", "{1326FF28-82AD-497F-BA1B-5859D48C0B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Debug|Zune = Debug|Zune
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+		Release|Zune = Release|Zune
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|Mixed Platforms.ActiveCfg = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|Mixed Platforms.Build.0 = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|x86.ActiveCfg = Debug|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|x86.Build.0 = Debug|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Debug|Zune.ActiveCfg = Debug|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|Any CPU.ActiveCfg = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|Mixed Platforms.Build.0 = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|x86.ActiveCfg = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|x86.Build.0 = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|Xbox 360.ActiveCfg = Release|x86
+		{14351B32-9974-4D1C-BD14-3FB2DF5D5374}.Release|Zune.ActiveCfg = Release|x86
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Mixed Platforms.Deploy.0 = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|x86.ActiveCfg = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Mixed Platforms.Deploy.0 = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|x86.ActiveCfg = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{0F59B0E5-4A28-40C2-8B3C-4986D8B97D4E}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|x86.ActiveCfg = Debug|x86
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|x86.Build.0 = Debug|x86
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|x86.ActiveCfg = Release|x86
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|x86.Build.0 = Release|x86
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{288693A4-E777-4A32-A658-3AB8B48C8511}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|x86.ActiveCfg = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|x86.Build.0 = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Debug|Zune.ActiveCfg = Debug|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|Any CPU.ActiveCfg = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|Mixed Platforms.Build.0 = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|x86.ActiveCfg = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|x86.Build.0 = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|Xbox 360.ActiveCfg = Release|x86
+		{8920CB58-7E98-4EE9-8726-BE29BB9BD778}.Release|Zune.ActiveCfg = Release|x86
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|x86.ActiveCfg = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|x86.ActiveCfg = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{24E54586-860B-46EC-B294-86097526071D}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|x86.ActiveCfg = Debug|x86
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|x86.Build.0 = Debug|x86
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|x86.ActiveCfg = Release|x86
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|x86.Build.0 = Release|x86
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{287934F7-D1DF-4E3E-A05E-505C500113DC}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|x86.ActiveCfg = Debug|x86
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|x86.Build.0 = Debug|x86
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|x86.ActiveCfg = Release|x86
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|x86.Build.0 = Release|x86
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{6FC02BC0-9CE9-4191-850F-3008563E1C4C}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|x86.ActiveCfg = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|x86.Build.0 = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Debug|Zune.ActiveCfg = Debug|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|Any CPU.ActiveCfg = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|x86.ActiveCfg = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|x86.Build.0 = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|Xbox 360.ActiveCfg = Release|x86
+		{B501FB5A-C341-43B3-8AF3-C3202277D943}.Release|Zune.ActiveCfg = Release|x86
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Any CPU.ActiveCfg = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|x86.ActiveCfg = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Debug|Zune.ActiveCfg = Debug|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Any CPU.ActiveCfg = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|x86.ActiveCfg = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Zune.ActiveCfg = Release|Xbox 360
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Xbox 360.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Zune.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|x86.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Xbox 360.ActiveCfg = Debug|Any CPU
+		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Zune.ActiveCfg = Debug|Any CPU
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|x86.ActiveCfg = Debug|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Zune.ActiveCfg = Debug|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Any CPU.ActiveCfg = Release|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|x86.ActiveCfg = Release|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Xbox 360.ActiveCfg = Release|x86
+		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Zune.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

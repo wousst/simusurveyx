@@ -1,0 +1,2 @@
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\Content\obj\x86\Release\ResolveAssemblyReference.cache

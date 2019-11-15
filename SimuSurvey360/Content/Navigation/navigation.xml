@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.String[]">   
+    <Item>Navigation\NA_B01.png</Item>
+    <Item>Navigation\NA_H01.png</Item>    
+    <Item>Navigation\NA_B02.png</Item>
+    <Item>Navigation\NA_H02.png</Item>    
+    <Item>Navigation\NA_B03.png</Item>
+    <Item>Navigation\NA_H03.png</Item>    
+    <Item>Navigation\NA_B04.png</Item>
+    <Item>Navigation\NA_H04.png</Item>          
+    <Item>Navigation\NA_B05.png</Item>
+    <Item>Navigation\NA_H05.png</Item>                 
+  </Asset>
+</XnaContent>

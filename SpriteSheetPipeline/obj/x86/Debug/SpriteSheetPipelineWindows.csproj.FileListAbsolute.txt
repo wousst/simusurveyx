@@ -1,0 +1,5 @@
+D:\Program Files\skc\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Debug\SpriteSheetPipeline.dll
+D:\Program Files\skc\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Debug\SpriteSheetPipeline.pdb
+D:\Program Files\skc\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Program Files\skc\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.dll
+D:\Program Files\skc\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.pdb

@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Name>grid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\grid_0.xml</Key>
+        <Value>2010-05-10T13:30:48.6190661+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSettings.xml</Source>
+      <Name>ExplosionSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\ExplosionSettings.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ExplosionSmokeSettings.xml</Source>
+      <Name>ExplosionSmokeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\ExplosionSmokeSettings.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>FireSettings.xml</Source>
+      <Name>FireSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\FireSettings.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ProjectileTrailSettings.xml</Source>
+      <Name>ProjectileTrailSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\ProjectileTrailSettings.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>SmokePlumeSettings.xml</Source>
+      <Name>SmokePlumeSettings</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\SmokePlumeSettings.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\grid_0.xml</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\checker_0.xnb</Output>
+      <Time>2009-04-28T10:48:02+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\Particle3DSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Debug\ParticleSettings.dll</Key>
+        <Value>2010-03-27T22:58:04.6931325+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-02-24T16:32:10.6089228+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

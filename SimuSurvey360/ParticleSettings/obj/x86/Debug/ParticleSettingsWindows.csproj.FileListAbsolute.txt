@@ -1,0 +1,18 @@
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\bin\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\bin\x86\Debug\ParticleSettings.pdb
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\Particle\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ParticleSettings.pdb
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\bin\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\bin\x86\Debug\ParticleSettings.pdb
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\Program Resource\XNA\Particle_爆炸_煙\XmlParticles\XmlParticles\ParticleSettings\obj\x86\Debug\ParticleSettings.pdb
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Debug\ParticleSettings.pdb
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Debug\ParticleSettings.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Debug\ParticleSettings.pdb

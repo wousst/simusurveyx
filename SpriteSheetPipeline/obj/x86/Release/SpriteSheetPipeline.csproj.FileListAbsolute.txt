@@ -1,0 +1,10 @@
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.pdb
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
+C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.dll
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.pdb
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\ResolveAssemblyReference.cache
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
+D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb

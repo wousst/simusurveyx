@@ -1,0 +1,2 @@
+把 ds_digital\ 下的4 個字型檔放入 c:\windows\font
+

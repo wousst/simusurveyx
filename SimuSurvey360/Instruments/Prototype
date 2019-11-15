@@ -1,0 +1,202 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content;
+using System.Text;
+
+namespace SimuSurveyXNA.Instruments
+{
+    class Prototype
+    {
+
+        #region Fields
+
+        // The XNA framework Model object that we are going to display.
+        Model _model;
+
+        //Bones and their indivisual transformation
+        //Don't change the matrix directly, just change the value of properties
+        ModelBone _main;
+        ModelBone _Leg1_1;
+        ModelBone _Leg1_2;
+        ModelBone _Leg2_1;
+        ModelBone _Leg2_2;
+        ModelBone _Leg3_1;
+        ModelBone _Leg3_2;
+
+        Matrix _mainTransform;
+        Matrix _Leg1_1Transform;
+        Matrix _Leg1_2Transform;
+        Matrix _Leg2_1Transform;
+        Matrix _Leg2_2Transform;
+        Matrix _Leg3_1Transform;
+        Matrix _Leg3_2Transform;
+
+        //The transformation matrix for rendering
+        Matrix[] _boneTransforms;
+
+        //Value controled from outside the class
+        private Vector3 _worldPosition;//instrument position (N, H, E) coordinates
+        private float _rotationValue;//the angle (degree) between main body and tripod
+        private float _upperLegLength;//the length of the tripod
+        private float _lowerLegLength;//the length of the tripod
+        private float _level;//the height of the instrument
+
+        //Default Value
+        private  Vector3 POSITION = new Vector3(0,0,0);
+        private const float ROTATION_VALUE = 0;
+        private const float UPPER_LEG_LENGTH = 10;
+        private const float LOWER_LEG_LENGTH = 10;
+        private const float HEIGHT = 20;       
+
+        //View 
+        private Matrix _view;
+        private Matrix _projection;
+        private Matrix _world;
+        #endregion
+
+        public void Load(ContentManager content)
+        {
+            _model = content.Load<Model>("Tripod");
+            _main = _model.Bones["Box03"];
+            _Leg1_1 = _model.Bones["Object04"];
+            _Leg1_2 = _model.Bones["Box06"];
+            _Leg2_1 = _model.Bones["Object05"];
+            _Leg2_2 = _model.Bones["Box07"];
+            _Leg3_1 = _model.Bones["Object05"];
+            _Leg3_2 = _model.Bones["Box08"];
+
+            _mainTransform = _main.Transform;
+            _Leg1_1Transform = _Leg1_1.Transform;
+            _Leg1_2Transform = _Leg1_2.Transform;
+            _Leg2_1Transform = _Leg2_1.Transform;
+            _Leg2_2Transform = _Leg2_2.Transform;
+            _Leg3_1Transform = _Leg3_1.Transform;
+            _Leg3_2Transform = _Leg3_2.Transform;
+
+            // Allocate the transform matrix array.
+            _boneTransforms = new Matrix[_model.Bones.Count];
+
+            //Other init
+            _worldPosition = POSITION;
+            _upperLegLength = UPPER_LEG_LENGTH;
+            _lowerLegLength = LOWER_LEG_LENGTH;
+            _rotationValue = ROTATION_VALUE;
+            _level = HEIGHT;
+        }
+
+        public void Update(Matrix world,Matrix view, Matrix projection)
+        {
+            // Calculate matrices based on the current animation position.
+            //Translation Part
+            Matrix worldTranslation;          //Translate the instrument to _worldPostion from origin
+            Matrix heightTranslation;         //Translate the intstrument body for height along y axis from origin
+            Matrix tripodTranslation;         //Translate the body down along axis casued by the rotation of tripod
+            float tripodTranslationValue;
+            Matrix tripodScaleTranslation; //Translation to coordinate the position of legs caused by scaling
+
+            //Rotation Part
+            Matrix tripodRotation;         //Rotate the legs of tripod to desired degree
+            Matrix modelRotation;
+
+            //Scaling Part
+            Matrix tripodScale;            //Scale the lower legs of tripod to desired length
+            float tripodScaleValue;
+            Matrix modelScale;
+
+            //Model import
+            modelRotation = Matrix.CreateRotationX(MathHelper.ToRadians(0));
+            modelScale = Matrix.CreateScale(0.25f,0.25f,0.25f);
+
+            //Main Body and tripod
+            tripodRotation = Matrix.CreateRotationX(MathHelper.ToRadians(-_rotationValue));
+            tripodTranslationValue = (float)((25)* (1 - Math.Cos((double)MathHelper.ToRadians(_rotationValue))));
+            tripodTranslation = Matrix.CreateTranslation(0, 0, 0);//(0, -tripodTranslationValue, 0);
+
+            //Tripod
+            tripodScaleValue = (_lowerLegLength / 10);
+            tripodScale = Matrix.CreateScale(1, tripodScaleValue, 1);
+            tripodScaleTranslation = Matrix.CreateTranslation(0, (_lowerLegLength - 10), 0);
+
+            //Whole body transform
+            heightTranslation = Matrix.CreateTranslation(0, 0, 0); // translation for height of instrument  (originally the main body is aligned with the original)
+
+            // Apply matrices to the relevant bones.
+            _Leg1_1.Transform = _Leg1_1Transform * tripodRotation;
+            //_Leg1_2.Transform = _Leg1_2Transform * tripodScale * tripodScaleTranslation * tripodRotation;
+            //_Leg2_1.Transform = _Leg2_1Transform * tripodRotation;
+            //_Leg2_2.Transform = _Leg2_2Transform * tripodScale * tripodScaleTranslation * tripodRotation;
+            //_Leg3_1.Transform = _Leg3_1Transform * tripodRotation;
+            //_Leg3_2.Transform = _Leg3_2Transform * tripodScale * tripodScaleTranslation * tripodRotation;
+
+            //World Coordinare
+            worldTranslation = Matrix.CreateTranslation(_worldPosition.X, _worldPosition.Y, _worldPosition.Z);
+
+            // Set the world matrix as the root transform of the model.
+            _model.Root.Transform = modelScale * modelRotation *worldTranslation * world * heightTranslation * tripodTranslation;
+
+            // Look up combined bone matrices for the entire model.
+            _model.CopyAbsoluteBoneTransformsTo(_boneTransforms);
+
+            //View
+            _world = world;
+            _view = view;
+            _projection = projection;
+        }
+
+        public void Draw()
+        {
+            // Draw the model.
+            foreach (ModelMesh mesh in _model.Meshes)
+            {
+                foreach (BasicEffect effect in mesh.Effects)
+                {
+                    effect.World = _boneTransforms[mesh.ParentBone.Index];
+                    effect.View = _view;
+                    effect.Projection = _projection;
+
+                    effect.EnableDefaultLighting();
+                }
+
+                mesh.Draw();
+            }
+        }
+
+        public float RotationValue
+        {
+            get { return _rotationValue; }
+            set 
+            {
+                if (value < 90)
+                    _rotationValue = value;
+                else
+                    _rotationValue = 90;
+            }
+        }
+
+        public float Length
+        {
+            get { return _lowerLegLength; }
+            set
+            {
+                if (value < 25)
+                    _lowerLegLength = value;
+                else
+                    _lowerLegLength = 20;
+            }
+        }
+
+        public Vector3 WorldPosition
+        {
+            get { return _worldPosition; }
+            set { _worldPosition = value; }
+        }
+
+        public float LEVEL
+        {
+            get { return _level; }
+            set { _level = value; }
+        }
+    }
+}
