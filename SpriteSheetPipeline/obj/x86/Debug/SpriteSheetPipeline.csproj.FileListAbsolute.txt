@@ -13,3 +13,8 @@ C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Debug\
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.dll
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\bin\x86\Debug\SpriteSheetPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\bin\x86\Debug\SpriteSheetPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Debug\SpriteSheetPipeline.pdb

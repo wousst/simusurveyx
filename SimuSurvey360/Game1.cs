@@ -116,8 +116,8 @@ namespace SimuSurvey360
             SmokePlume,
             RingOfFire,
         };
-        ParticleState currentState = ParticleState.SmokePlume;
-        // ParticleState currentState = ParticleState.Explosions;
+        ParticleState currentState = ParticleState.SmokePlume; // hadrihl - close comment
+        //ParticleState currentState = ParticleState.Explosions; // hadrihl - open comment
 
         // The explosions effect works by firing projectiles up into the
         // air, so we need to keep track of all the active projectiles.

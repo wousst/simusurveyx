@@ -23,3 +23,8 @@ C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\TankOnAHeightmapPipeline\bin\x86\D
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.dll
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.pdb

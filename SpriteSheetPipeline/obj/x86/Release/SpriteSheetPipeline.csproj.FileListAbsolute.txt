@@ -8,3 +8,8 @@ D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipel
 D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\ResolveAssemblyReference.cache
 D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
 D:\SimuSurvey\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\bin\x86\Release\SpriteSheetPipeline.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb

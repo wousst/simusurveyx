@@ -16,3 +16,9 @@ C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\R
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\bin\x86\Debug\SpriteSheetRuntime.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\obj\x86\Debug\SpriteSheetRuntime.pdb

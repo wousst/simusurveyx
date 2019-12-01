@@ -6,15 +6,15 @@
       <TargetPlatform>Xbox360</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\Content\</RootDirectory>
-      <LoggerRootDirectory>D:\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\SimuSurvey\SimuSurvey360\SpriteSheetRuntime\bin\Xbox 360\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetRuntime\bin\Xbox 360\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2010-02-24T16:32:10.6089228+08:00</Value>
+        <Value>2019-11-22T15:23:49.4030853+08:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

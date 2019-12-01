@@ -314,3 +314,17 @@ C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\C
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\Content\Ruler_Level_Numbers_0.xnb
 D:\SimuSurvey\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.exe
 D:\SimuSurvey\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SimuSurvey360.exe.manifest
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SimuSurvey360.application
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SimuSurvey360.exe
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SimuSurvey360.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\ParticleSettings.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SpriteSheetRuntime.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\ParticleSettings.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\bin\Xbox 360\Debug\SpriteSheetRuntime.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.exe.manifest
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.application
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.exe
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\obj\Xbox 360\Debug\SimuSurvey360.pdb

@@ -23,6 +23,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankOnAHeightmapPipeline", "TankOnAHeightmapPipeline\TankOnAHeightmapPipeline.csproj", "{287934F7-D1DF-4E3E-A05E-505C500113DC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankOnAHeightmapPipelineXbox", "TankOnAHeightmapPipeline\TankOnAHeightmapPipelineXbox.csproj", "{6FC02BC0-9CE9-4191-850F-3008563E1C4C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{287934F7-D1DF-4E3E-A05E-505C500113DC} = {287934F7-D1DF-4E3E-A05E-505C500113DC}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParticleSettingsWindows", "SimuSurvey360\ParticleSettings\ParticleSettingsWindows.csproj", "{B501FB5A-C341-43B3-8AF3-C3202277D943}"
 EndProject
@@ -177,26 +180,6 @@ Global
 		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
 		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Xbox 360.Build.0 = Release|Xbox 360
 		{1326FF28-82AD-497F-BA1B-5859D48C0B03}.Release|Zune.ActiveCfg = Release|Xbox 360
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Xbox 360.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Debug|Zune.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|x86.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Xbox 360.ActiveCfg = Debug|Any CPU
-		{3B1153C5-E30C-42B2-829E-90B58D3A6EFE}.Release|Zune.ActiveCfg = Debug|Any CPU
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Any CPU.ActiveCfg = Debug|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|x86.ActiveCfg = Debug|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Xbox 360.ActiveCfg = Debug|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Debug|Zune.ActiveCfg = Debug|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Any CPU.ActiveCfg = Release|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Mixed Platforms.ActiveCfg = Release|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|x86.ActiveCfg = Release|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Xbox 360.ActiveCfg = Release|x86
-		{2DBC2385-52E1-41FE-AAD5-ACB42E711651}.Release|Zune.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,3 +10,9 @@ D:\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\Resol
 D:\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
 D:\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\ParticleSettings.dll
 D:\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\ParticleSettings.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Release\ParticleSettings.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\x86\Release\ParticleSettings.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\ParticleSettings.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\x86\Release\ParticleSettings.pdb

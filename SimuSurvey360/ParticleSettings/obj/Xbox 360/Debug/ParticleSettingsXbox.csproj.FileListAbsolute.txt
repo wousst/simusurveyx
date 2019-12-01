@@ -4,3 +4,9 @@ C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\ParticleSettings.dll
 C:\Users\skc\Desktop\SimuSurvey\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\ParticleSettings.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\Xbox 360\Debug\ParticleSettings.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\bin\Xbox 360\Debug\ParticleSettings.pdb
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\ParticleSettings.dll
+C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SimuSurvey360\ParticleSettings\obj\Xbox 360\Debug\ParticleSettings.pdb
