@@ -13,7 +13,6 @@ C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeig
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Release\TanksOnAHeightmapPipeline.dll
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\TankOnAHeightmapPipeline\obj\x86\Release\TanksOnAHeightmapPipeline.pdb
+C:\Users\hdx\Desktop\repository\simusurveyx\TankOnAHeightmapPipeline\bin\x86\Release\TanksOnAHeightmapPipeline.dll
 C:\Users\hdx\Desktop\repository\simusurveyx\TankOnAHeightmapPipeline\obj\x86\Release\TankOnAHeightmapPipeline.csproj.AssemblyReference.cache
 C:\Users\hdx\Desktop\repository\simusurveyx\TankOnAHeightmapPipeline\obj\x86\Release\TankOnAHeightmapPipeline.csproj.CoreCompileInputs.cache
-C:\Users\hdx\Desktop\repository\simusurveyx\TankOnAHeightmapPipeline\obj\x86\Release\TanksOnAHeightmapPipeline.dll
-C:\Users\hdx\Desktop\repository\simusurveyx\TankOnAHeightmapPipeline\obj\x86\Release\TanksOnAHeightmapPipeline.pdb
