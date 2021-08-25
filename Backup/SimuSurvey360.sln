@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31507.150
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuSurvey360", "SimuSurvey360\SimuSurvey360.csproj", "{14351B32-9974-4D1C-BD14-3FB2DF5D5374}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B501FB5A-C341-43B3-8AF3-C3202277D943} = {B501FB5A-C341-43B3-8AF3-C3202277D943}
@@ -185,8 +183,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D34A1128-1E95-4F9A-92EF-45780E0D6269}
 	EndGlobalSection
 EndGlobal

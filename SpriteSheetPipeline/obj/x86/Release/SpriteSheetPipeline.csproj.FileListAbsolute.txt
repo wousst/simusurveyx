@@ -13,3 +13,7 @@ C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheet
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\ResolveAssemblyReference.cache
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
 C:\Users\mdnorhadrih.WOU\Desktop\grant-iri\SimusurveyX\SimuSurvey360\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb
+C:\Users\hdx\Desktop\repository\simusurveyx\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.csproj.AssemblyReference.cache
+C:\Users\hdx\Desktop\repository\simusurveyx\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.csproj.CoreCompileInputs.cache
+C:\Users\hdx\Desktop\repository\simusurveyx\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.dll
+C:\Users\hdx\Desktop\repository\simusurveyx\SpriteSheetPipeline\obj\x86\Release\SpriteSheetPipeline.pdb
